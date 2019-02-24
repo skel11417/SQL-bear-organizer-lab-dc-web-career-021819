@@ -17,7 +17,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
   5,
   "f",
   "black",
-  "vicious",
+  "goofy",
   1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (
